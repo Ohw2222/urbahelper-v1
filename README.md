@@ -1,6 +1,7 @@
 
-# UrbaHelper V1 
-![Made in France](https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/FR.svg)
+# UrbaHelper V1 ![Made in France](https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/FR.svg)
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ![English](https://raw.githubusercontent.com/yammadev/flag-icons/master/png/GB.png)
 UrbaHelper is a software which generates reports for the administration about urbanism requests.
@@ -54,7 +55,7 @@ Non, il s'agit de la version 1 d'un logiciel désormais vendu commercialement. N
 
 ![Made in France](https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/FR.svg)
 
-![GitHub License](https://img.shields.io/github/license/Ohw2222/urbahelper-v1)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ohw2222/urbahelper-v1)
 
