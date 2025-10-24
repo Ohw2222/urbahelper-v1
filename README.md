@@ -30,13 +30,13 @@ Dans votre éditeur préféré, éditez `/config/config.php` (sur la base de `/c
 
 ## FAQ
 
-![English](https://raw.githubusercontent.com/yammadev/flag-icons/master/png/GB.png)
-#### Will this project be maintained or updated ? Can I do a commit or merge request ?
+
+#### ![English](https://raw.githubusercontent.com/yammadev/flag-icons/master/png/GB.png) Will this project be maintained or updated ? Can I do a commit or merge request ?
 
 No, it is the first version of a software now commercialy sold. Don't expect any update or change (not even a branch merge or any commit).
 
-![French](https://raw.githubusercontent.com/yammadev/flag-icons/master/png/FR.png)
-#### Est ce que ce projet va être maintenu ou mis à jour ? Puis-je faire une demande de commit ou de merge ?
+
+#### ![French](https://raw.githubusercontent.com/yammadev/flag-icons/master/png/FR.png) Est ce que ce projet va être maintenu ou mis à jour ? Puis-je faire une demande de commit ou de merge ?
 
 Non, il s'agit de la version 1 d'un logiciel désormais vendu commercialement. Nous ne prevoyons pas de mise à jour ou de modification (même pas de merge ou commit).
 
